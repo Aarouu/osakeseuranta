@@ -8,5 +8,5 @@
 * Käyttäjä pystyy etsimään muiden julkisia osakesalkkuja.
 * Sovelluksessa on käyttäjäsivut, jotka näyttävät tilastoja ja käyttäjän lisäämät muutokset salkkuun.
 * Käyttäjä pystyy valitsemaan ilmoitukselle milloin, millä hinnalla ja kuinka monta osaketta on hankittu.
-* Käyttäjä pystyy tarkastelemaan oman salkkunsa hajautusta toimialoittain sekä mitä yrityksiä sisältyy näihin.
+* Käyttäjä pystyy tarkastelemaan oman salkkunsa hajautusta toimialoittain sekä mitä yrityksiä sisältyy tähän.
 
